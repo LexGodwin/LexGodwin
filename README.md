@@ -49,7 +49,6 @@ export default () => ({
 </picture>
 
 
-### 📧Email: **luk23bonnie8@gmail.com**
 
 <br>
 
