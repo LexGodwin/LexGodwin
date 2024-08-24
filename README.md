@@ -1,58 +1,15 @@
-
-<br>
-
-<br>
-
-```js
-export default () => ({
+-   👯 Hello, my name Lex Godwin, I’m looking to collaborate on  Node.js/TypeScript & Python projects**
   
-  About: [
-    "Blockchain /Fullstack Developer",
-    
-  ],
- dev:{
-      fullStack:{
-        frameworks: ['React.js', 'Next.js','Express.js'],
-        languages: ['Typescript']
-      },
-      
-      blockchain:{
-        languages: ['Solidity','Golang',],
-        frameworks: ['ether.js', 'web3.js','IgniteCli','Cosmos sdk'],
-        platforms:['Binance smart chain','Polygon', 'Avalanche', 'Ethereum mainnnet']
-      },
-  
-      testing: ['Mocha & Chai', 'Jest'],
-      
-      projectMgt: ['Pivotal Tracker', 'Jira'],
-    },
-});
+-   ✨ Ask me about **Machine Learning Ops, Backend & Frontend Development**
 
-```
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
-      https://github.com/steampunk99/lukwiya23/blob/master/github-contribution-grid-snake.svg
-    "
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="
-      https://github.com/steampunk99/lukwiya23/blob/master/github-contribution-grid-snake.svg
-    "
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://github.com/steampunk99/lukwiya23/blob/master/github-contribution-grid-snake.svg"
-  />
-</picture>
+-   ⚡ How to reach me **lexgodwin123@gmail.com
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">  </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a>  <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" alt="rabbitmq" width="40" height="40"/> </a>
+<a>  <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-line-wordmark.svg" alt="tomcat" width="40" height="40"/> </a>
+<a> <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original-wordmark.svg" alt="hardhat" width="40" height="40"/>  </a>
+<a>  <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" alt="azure" width="40" height="40"/> 
+</a> </p>
 
-
-<br>
-
-<br>
-
-
-
+ 
